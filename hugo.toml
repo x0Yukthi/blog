@@ -1,6 +1,6 @@
 baseURL = 'https://yukthichikkanna.com'
 languageCode = 'en-us'
-title = 'Yukthi Chikkanna1'
+title = 'Yukthi Chikkanna'
 theme = 'maverick'
 
 [permalinks]
@@ -8,7 +8,7 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = ""
+  description = "My Journey"
   author = 'Yukthi Chikkanna'
   items = 10
 
