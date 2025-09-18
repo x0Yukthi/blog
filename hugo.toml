@@ -25,6 +25,11 @@ theme = 'maverick'
     url = "/posts/"
     weight = -200
 
+[[menu.main]]
+  name = "Resume"
+  url = "/file/Yukthi_Resume.pdf"
+  weight = 1
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
